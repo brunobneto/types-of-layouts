@@ -1,2 +1,2 @@
-# types-of-layouts
+# Types of layouts
 teste
